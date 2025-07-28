@@ -2,7 +2,7 @@
 
 - 🖥 I am currently a Computer Engineering Bachelor Student at Sivas Cumhuriyet University.
 - ⌨️ I am eager to share my coding projects from school and internships, demonstrating my ability to develop software solutions using various programming languages and tools.
-- 💫 I am a passionate software developer with a keen interest in object-oriented programming using Java, as well as data analysis with SQL and Excel.
+- 💫 I am a passionate software developer with a keen interest in object-oriented programming using Java and Python, as well as data analysis with SQL and Excel.
 
 
 
